@@ -1,0 +1,2 @@
+# tonconnect-manifest
+test
